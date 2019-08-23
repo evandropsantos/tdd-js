@@ -1,4 +1,4 @@
-import { sum, sub, mult, div } from '../../src/components/calc';
+import { sum, sub, mult, div } from '../../src/components/calc'
 
 describe('calc', () => {
   describe('Smoke tests', () => {
